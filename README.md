@@ -1,5 +1,9 @@
 # ecommerce
 
+Esta aplicación se sincroniza con https://github.com/diegomolinaquintero/ecommercePHP en esta link esta el backend
+
+
+
 ## Project setup
 ```
 npm install
